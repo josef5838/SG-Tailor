@@ -19,5 +19,5 @@
 </div>
 <br>
 <div align="center">
-  <img src="./assets/teaser.pdf" alt="teaser" style="max-width: 100%;">
+  <img src="./assets/teaser.png" alt="teaser" style="max-width: 100%;">
 </div>
