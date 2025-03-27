@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src="./assets/sgtailor.png" alt="Logo" width="40" height="30"> SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation
+<h1><img src="./assets/sgtailor.png" alt="Logo" width="50" height="48"> SG-Tailor: Inter-Object Commonsense Relationship Reasoning for Scene Graph Manipulation
 </h1>
 </div>
 <br>
